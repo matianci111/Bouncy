@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bouncy</string>
+    <string name="tap_to_start">Tap to start!</string>
+    <string name="item1">item1</string>
+    <string name="item2">Exit</string>
+    <string name="preview">New Game</string>
+
+</resources>
